@@ -1,1 +1,10 @@
-This project involves training a custom Word2Vec model on a text dataset sourced from Kaggle or the web. After preprocessing and tokenizing the text, high-dimensional word embeddings are generated and reduced to 2D using PCA. These 2D vectors are then visualized using matplotlib to explore word relationships. Finally, the model is used to compute similarity between words based on their embeddings.
+📌 Project Overview: Word2Vec with PCA Visualization
+Downloaded a text dataset from Kaggle/web for training purposes.
+
+Preprocessed and tokenized the text, then trained a custom Word2Vec model.
+
+Applied PCA to reduce high-dimensional word vectors to 2D for visualization.
+
+Plotted the 2D embeddings using matplotlib to visualize word relationships.
+
+Used Word2Vec similarity functions to explore and compare similar words.
