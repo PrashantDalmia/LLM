@@ -1,0 +1,8 @@
+numpy
+panda
+sqlite3
+simple_preprocess
+Word2Vec
+PCA
+plt
+px
